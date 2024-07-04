@@ -9,7 +9,6 @@ namespace TripServiceKata.Tests
         [Fact]
         public void Foo()
         {
-            new TripService();
             true.Should().Be(false);
         }
     }
